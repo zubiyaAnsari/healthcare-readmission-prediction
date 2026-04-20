@@ -1,6 +1,6 @@
-# 🏥 Healthcare Analytics: Predicting Hospital Readmissions
+#  Healthcare Analytics: Predicting Hospital Readmissions
 
-## 📌 Overview
+##  Overview
 
 This project predicts whether a diabetic patient will be readmitted within 30 days using machine learning.
 
